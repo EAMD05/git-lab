@@ -5,15 +5,15 @@ Git practice laboratory and it will be used to learn GitHub fundamentals.
 
 ## Contents
 ### Images
-![trip](Camboya IMG 2380.JPG)
+![Camboya IMG 2380.JPG](https://github.com/EAMD05/git-lab/blob/main/Camboya%20IMG%202380.JPG?raw=true)
 
 ### code examples
 ```python print(1+1) ```
 
 ### Lists
-- [] Turn on GitHub Pages
-- [] Outline my portfolio
-- [] Introduce myself to the world
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 ## References
 1. [Github documentation] (https://docs.github.com/en)
