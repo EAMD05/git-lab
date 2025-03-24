@@ -5,9 +5,11 @@ Git practice laboratory and it will be used to learn GitHub fundamentals.
 
 ## Contents
 ### Images
-/assets/images/Camboya_IMG_2380.png
+![trip](Camboya IMG 2380.JPG)
+
 ### code examples
 ```python print(1+1) ```
+
 ### Lists
 - [] Turn on GitHub Pages
 - [] Outline my portfolio
