@@ -7,6 +7,7 @@ Git practice laboratory and it will be used to learn GitHub fundamentals.
 ### Images
 ![Camboya IMG 2380.JPG](https://github.com/EAMD05/git-lab/blob/main/Camboya%20IMG%202380.JPG?raw=true)
 ![Copia de IMG_2278.JPG](/Users/erickamdgz/Documents/Tecnológico de Monterrey/Profesional/Semestre 4/Juego/GitClone/git-lab)
+![Copia de IMG_2278.JPG](/Users/erickamdgz/Documents/Tecnológico de Monterrey/Profesional/Semestre 4/Juego/GitClone/git-lab)
 
 ### code examples
 ```python print(1+1) ```
